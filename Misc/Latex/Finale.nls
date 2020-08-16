@@ -1,0 +1,13 @@
+\begin{thenomenclature} 
+
+ \nomgroup{A}
+
+  \item [{$B$}]\begingroup Dimensionless reaction\nomeqref {0.0}
+		\nompageref{1}
+  \item [{$e$}]\begingroup Planck constant\nomeqref {0.0}\nompageref{1}
+  \item [{$f$}]\begingroup Planck constant\nomeqref {0.0}\nompageref{1}
+  \item [{$h$}]\begingroup Planck constant\nomeqref {0.0}\nompageref{1}
+  \item [{$j$}]\begingroup Planck constant\nomeqref {0.0}\nompageref{1}
+  \item [{$n$}]\begingroup Planck constant\nomeqref {0.0}\nompageref{1}
+
+\end{thenomenclature}

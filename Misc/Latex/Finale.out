@@ -1,0 +1,19 @@
+\BOOKMARK [1][-]{section.1}{Description of the Problem}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Why AI ?}{section.1}% 2
+\BOOKMARK [1][-]{section.2}{Background and Related Work}{}% 3
+\BOOKMARK [2][-]{subsection.2.1}{Intention Statement}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.2}{The workflow}{section.2}% 5
+\BOOKMARK [1][-]{section.3}{Description of the Data}{}% 6
+\BOOKMARK [2][-]{subsection.3.1}{Data composition}{section.3}% 7
+\BOOKMARK [2][-]{subsection.3.2}{Statistical analysis}{section.3}% 8
+\BOOKMARK [1][-]{section.4}{The Method}{}% 9
+\BOOKMARK [2][-]{subsection.4.1}{Feature engineering}{section.4}% 10
+\BOOKMARK [2][-]{subsection.4.2}{Model selection}{section.4}% 11
+\BOOKMARK [3][-]{subsubsection.4.2.1}{Metrics}{subsection.4.2}% 12
+\BOOKMARK [3][-]{subsubsection.4.2.2}{Classifiers}{subsection.4.2}% 13
+\BOOKMARK [1][-]{section.5}{Results}{}% 14
+\BOOKMARK [2][-]{subsection.5.1}{Bonus : decision boundary}{section.5}% 15
+\BOOKMARK [1][-]{section.6}{Discussion}{}% 16
+\BOOKMARK [2][-]{subsection.6.1}{Limitation of the study}{section.6}% 17
+\BOOKMARK [2][-]{subsection.6.2}{Conclusions}{section.6}% 18
+\BOOKMARK [1][-]{subsection.6.2}{References}{}% 19
