@@ -64,5 +64,6 @@ institution = "University of California, Irvine, School of Information and Compu
 ```
 
 ##  Requirements
-Google [[Colab](https://colab.research.google.com/notebooks/intro.ipynb)] or at least Python 3.4. List of imported packages 
-can be found in the first block of the *ML_Proj.ipynb* file.
+* Google [[Colab](https://colab.research.google.com/notebooks/intro.ipynb)] or at least Python 3.4.
+
+* List of imported packages can be found in the first block of the ***ML_Proj.ipynb*** file.
