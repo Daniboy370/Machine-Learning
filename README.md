@@ -48,11 +48,11 @@ By performing the following pipeline, the performance can be concentrated :
 All classifiers exhibit satsfactory results, but the SVM outperformed all. Being honest, the relatively modest amount of samples in 
 the dataset, that may cause overfitting. Therefore, the classifiers results showed slight sensitivity each the random initialization.
 
-The following figure presents projection of the data into 2D coordinate system, and applying different classification tools :
+The following figure presents data projection into 2D coordinate system, and applying different classification tools :
 
 &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; ![alt text](https://github.com/Daniboy370/Machine-Learning/blob/master/Misc/Latex/Images/Decision.png?raw=true)
 
-It is interesting to see how decision boundaries are largely influenced by differenet classification methods.
+It is interesting to see how decision boundaries are largely influenced by differenet classification methods 🧐.
 
 ## Citation
 * Wisconsin Breast Cancer Dataset ([WBCD](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic))) :
