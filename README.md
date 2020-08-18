@@ -18,22 +18,22 @@ to implemenet ML algorithms for an accurate diagnosis of cancerous cells :
 
 &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; ![alt text](https://github.com/Daniboy370/Machine-Learning/blob/master/Misc/Latex/Images/Intro_1.png?raw=true)
 
-Discrimination between malignant and benign cells, can be obtained by digesting and extracting meaningful faetures, **before**\
-delivered to the classifier. The raw dataset (including indices and id) after applying random shuffling:
+Discrimination between malignant and benign cells, can be obtained by digesting and extracting meaningful faetures, 
+**before** delivered to the classifier. The raw dataset (including indices and id) after applying random shuffling:
 
 &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; ![alt text](https://github.com/Daniboy370/Machine-Learning/blob/master/Misc/Latex/Images/data_table.png)
 
 Method
 -------
-After thorough inspection and investigation of the data, the samples undergo PCA, where each variable (feature) has an associated\
+After thorough inspection and investigation of the data, the samples undergo PCA, where each variable (feature) has an associated 
 red arrow (after scaling factor), in the directions that maximize each of the PC’s variance. Consider the following 3D demonstration :
 
 &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; ![alt text](https://github.com/Daniboy370/Machine-Learning/blob/master/Misc/Animation/PCA_vid.gif)
 
-The blue points are benign instances after compression (PCA) to the 3D space. The orange denote malignant instances. Note how the\
+The blue points are benign instances after compression (PCA) to the 3D space. The orange denote malignant instances. Note how the 
 Concave points feature maximizes the 1st PC's variance. Contrarily, Fractal dimension and Symmetry, contribute poorly to the 3rd PC. 
 
-The **ROC** reflects a binary classifier ability to discriminate classes, using a probabilistic analysis.\
+The **ROC** reflects a binary classifier ability to discriminate classes, using a probabilistic analysis.
 Each threshold is a point on the ROC graph, denoting the **TPR/FPR** tradeoff :
 
 &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; ![alt text](https://github.com/Daniboy370/Machine-Learning/blob/master/Misc/Latex/Images/Results_1.png)
@@ -45,7 +45,7 @@ By performing the following pipeline, the performance can be concentrated :
 
 &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; ![alt text](https://github.com/Daniboy370/Machine-Learning/blob/master/Misc/Latex/Images/Table.png?raw=true)
 
-All classifiers exhibit satsfactory results, but the SVM outperformed all. Being honest, the relatively modest amount of samples in\
+All classifiers exhibit satsfactory results, but the SVM outperformed all. Being honest, the relatively modest amount of samples in 
 the dataset, that may cause overfitting. Therefore, the classifiers results showed slight sensitivity each the random initialization.
 
 The following figure presents projection of the data into 2D coordinate system, and applying different classification tools :
