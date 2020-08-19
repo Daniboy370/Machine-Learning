@@ -36,7 +36,7 @@ Concave points feature maximizes the 1st PC's variance. Contrarily, Fractal dime
 The **ROC** reflects a binary classifier ability to discriminate classes, using a probabilistic analysis.
 Each threshold is a point on the ROC graph, denoting the **TPR/FPR** tradeoff :
 
-&nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; ![alt text](https://github.com/Daniboy370/Machine-Learning/blob/master/Misc/Latex/Images/Results_1.png)
+&nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; ![alt text](https://github.com/Daniboy370/Machine-Learning/blob/master/Misc/Latex/Images/Results_1.png)
 
 Results
 -------
