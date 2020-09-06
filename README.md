@@ -28,7 +28,7 @@ Method
 After thorough inspection and investigation of the data, the samples undergo PCA, where each variable (feature) has an associated 
 red arrow (after scaling factor), in the directions that maximize each of the PC’s variance. Consider the following 3D demonstration :
 
-&nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; <img src='https://github.com/Daniboy370/Machine-Learning/blob/master/Misc/Animation/PCA_vid.gif' width=500 />
+&nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; <img src='https://github.com/Daniboy370/Machine-Learning/blob/master/Misc/Animation/PCA_vid.gif' width=650 />
 
 The blue points are benign instances after compression (PCA) to the 3D space. The orange denote malignant instances. Note how the 
 Concave points feature maximizes the 1st PC's variance. Contrarily, Fractal dimension and Symmetry, contribute poorly to the 3rd PC. 
@@ -36,7 +36,7 @@ Concave points feature maximizes the 1st PC's variance. Contrarily, Fractal dime
 The **ROC** reflects a binary classifier ability to discriminate classes, using a probabilistic analysis.
 Each threshold is a point on the ROC graph, denoting the **TPR/FPR** tradeoff :
 
-&nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; <img src='https://github.com/Daniboy370/Machine-Learning/blob/master/Misc/Latex/Images/Results_1.png' width=800 />
+&nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; <img src='https://github.com/Daniboy370/Machine-Learning/blob/master/Misc/Latex/Images/Results_1.png' width=600 />
 
 Results
 -------
@@ -49,7 +49,7 @@ the dataset, that may cause overfitting. Therefore, the classifiers results show
 
 The following figure presents data projection into 2D coordinate system, and applying different classification tools :
 
-&nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; <img src='https://github.com/Daniboy370/Machine-Learning/blob/master/Misc/Latex/Images/Decision.png?raw=true' width=800 />
+&nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; <img src='https://github.com/Daniboy370/Machine-Learning/blob/master/Misc/Latex/Images/Decision.png?raw=true' width=600 />
 
 It is interesting to see how decision boundaries are largely influenced by differenet classification methods 🧐.
 
