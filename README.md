@@ -49,7 +49,7 @@ the dataset, that may cause overfitting. Therefore, the classifiers results show
 
 The following figure presents data projection into 2D coordinate system, and applying different classification tools :
 
-&nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; <img src='https://github.com/Daniboy370/Machine-Learning/blob/master/Misc/Latex/Images/Decision.png?raw=true' width=650 />
+&nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; <img src='https://github.com/Daniboy370/Machine-Learning/blob/master/Misc/Latex/Images/Decision.png?raw=true' width=700 />
 
 It is interesting to see how decision boundaries are largely influenced by differenet classification methods 🧐.
 
