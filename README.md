@@ -36,7 +36,7 @@ Concave points feature maximizes the 1st PC's variance. Contrarily, Fractal dime
 The **ROC** reflects a binary classifier ability to discriminate classes, using a probabilistic analysis.
 Each threshold is a point on the ROC graph, denoting the **TPR/FPR** tradeoff :
 
-&nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; ![alt text](https://github.com/Daniboy370/Machine-Learning/blob/master/Misc/Latex/Images/Results_1.png)
+&nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; <img src='https://github.com/Daniboy370/Machine-Learning/blob/master/Misc/Latex/Images/Results_1.png' width=500 />
 
 Results
 -------
@@ -49,7 +49,7 @@ the dataset, that may cause overfitting. Therefore, the classifiers results show
 
 The following figure presents data projection into 2D coordinate system, and applying different classification tools :
 
-&nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; <img src='https://github.com/Daniboy370/Machine-Learning/blob/master/Misc/Latex/Images/Decision.png?raw=true' width=300 />
+&nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; <img src='https://github.com/Daniboy370/Machine-Learning/blob/master/Misc/Latex/Images/Decision.png?raw=true' width=500 />
 
 It is interesting to see how decision boundaries are largely influenced by differenet classification methods 🧐.
 
