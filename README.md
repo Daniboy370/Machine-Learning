@@ -21,7 +21,7 @@ to implemenet ML algorithms for an accurate diagnosis of cancerous cells :
 Discrimination between malignant and benign cells, can be obtained by digesting and extracting meaningful faetures, 
 **before** delivered to the classifier. The raw dataset (including indices and id) after applying random shuffling:
 
-&nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; <img src='https://github.com/Daniboy370/Machine-Learning/blob/master/Misc/Latex/Images/data_table.png' width=500 />
+&nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; <img src='https://github.com/Daniboy370/Machine-Learning/blob/master/Misc/Latex/Images/data_table.png' width=800 />
 
 Method
 -------
