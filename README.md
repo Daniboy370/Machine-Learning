@@ -21,14 +21,14 @@ to implemenet ML algorithms for an accurate diagnosis of cancerous cells :
 Discrimination between malignant and benign cells, can be obtained by digesting and extracting meaningful faetures, 
 **before** delivered to the classifier. The raw dataset (including indices and id) after applying random shuffling:
 
-&nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; <img src='https://github.com/Daniboy370/Machine-Learning/blob/master/Misc/Latex/Images/data_table.png' width=850 />
+&nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp; <img src='https://github.com/Daniboy370/Machine-Learning/blob/master/Misc/Latex/Images/data_table.png' width=900 />
 
 Method
 -------
 After thorough inspection and investigation of the data, the samples undergo PCA, where each variable (feature) has an associated 
 red arrow (after scaling factor), in the directions that maximize each of the PC’s variance. Consider the following 3D demonstration :
 
-&nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; <img src='https://github.com/Daniboy370/Machine-Learning/blob/master/Misc/Animation/PCA_vid.gif' width=650 />
+&nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; <img src='https://github.com/Daniboy370/Machine-Learning/blob/master/Misc/Animation/PCA_vid.gif' width=700 />
 
 The blue points are benign instances after compression (PCA) to the 3D space. The orange denote malignant instances. Note how the 
 Concave points feature maximizes the 1st PC's variance. Contrarily, Fractal dimension and Symmetry, contribute poorly to the 3rd PC. 
