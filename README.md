@@ -4,6 +4,11 @@ This project aims to explore the data in search of hidden patterns using **non d
 
 [<img src='https://github.com/Daniboy370/Machine-Learning/blob/master/Misc/Animation/Kaggle_Open.png?raw=true' width=120 />](https://www.kaggle.com/daniboy370/can-ai-outperform-radiologists)
 
+[<img src='https://i0.wp.com/www.jessicayung.com/wp-content/uploads/2017/04/kaggle-logo-gray-300.png?resize=768%2C349' width=120 />](https://www.kaggle.com/daniboy370/can-ai-outperform-radiologists)
+
+[<img src='https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png' width=120 />](https://www.kaggle.com/daniboy370/can-ai-outperform-radiologists)
+
+
 Contents
 --------
 <!--ts-->
