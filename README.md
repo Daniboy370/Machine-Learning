@@ -2,7 +2,7 @@ This project aims to explore the data in search of hidden patterns using **non d
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1npMIKc5VYEOwgVK2079-wju3kuxSeDBT#scrollTo=i_PGcFG3ZRmU) 
 
-[![Open In Colab](https://github.com/Daniboy370/Machine-Learning/blob/master/Misc/Animation/Kaggle_Open.png?raw=true)](https://www.kaggle.com/daniboy370/can-ai-outperform-radiologist)
+[![Open In Kaggle](https://github.com/Daniboy370/Machine-Learning/blob/master/Misc/Animation/Kaggle_Open.png?raw=true)](https://www.kaggle.com/daniboy370/can-ai-outperform-radiologist)
 
 Contents
 --------
