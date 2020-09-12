@@ -1,6 +1,6 @@
 This project aims to explore the data in search of hidden patterns using **non deep learning** classification tools. The findings will be analyzed in context of **clinical aspects** using interactive data visualizations. This way I hope to establish a robust understanding of machine learning in context of healthcare. 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1npMIKc5VYEOwgVK2079-wju3kuxSeDBT#scrollTo=i_PGcFG3ZRmU) 
+[![Open In ](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1npMIKc5VYEOwgVK2079-wju3kuxSeDBT#scrollTo=i_PGcFG3ZRmU) 
 
 [<img src='https://github.com/Daniboy370/Machine-Learning/blob/master/Misc/Animation/Kaggle_Open.png?raw=true' width=115 />](https://www.kaggle.com/daniboy370/can-ai-outperform-radiologist)
 
