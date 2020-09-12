@@ -4,7 +4,7 @@ This project aims to explore the data in search of hidden patterns using **non d
 
 [<img src='https://github.com/Daniboy370/Machine-Learning/blob/master/Misc/Animation/Kaggle_Open.png?raw=true' width=115 />](https://www.kaggle.com/daniboy370/can-ai-outperform-radiologist)
 
-[ssc](kaggle kernels pull daniboy370/can-ai-outperform-radiologists)
+[ssc](https://www.kaggle.com/daniboy370/can-ai-outperform-radiologist)
 
 [![Open In Kaggle](https://github.com/Daniboy370/Machine-Learning/blob/master/Misc/Animation/Kaggle_Open.png?raw=true)](https://www.kaggle.com/daniboy370/can-ai-outperform-radiologist)
 
