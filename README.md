@@ -1,6 +1,6 @@
 This project aims to explore the data thoroughly, in search of hidden patterns using non deep learning\
 classification tools. The findings will be analyzed in context of the problem’s clinical aspects using interactive\
-data visualizations. This way I hope to establish a robust understanding of machine learning in context of healthcare.
+data visualizations. This way I hope to establish a robust understanding of machine learning in context of healthcare. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1npMIKc5VYEOwgVK2079-wju3kuxSeDBT#scrollTo=i_PGcFG3ZRmU)
 
 Contents
 --------
@@ -36,7 +36,7 @@ Concave points feature maximizes the 1st PC's variance. Contrarily, Fractal dime
 The **ROC** reflects a binary classifier ability to discriminate classes, using a probabilistic analysis.
 Each threshold is a point on the ROC graph, denoting the **TPR/FPR** tradeoff :
 
-&nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; <img src='https://github.com/Daniboy370/Machine-Learning/blob/master/Misc/Latex/Images/Results_1.png' width=600 />
+&nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; <img src='https://github.com/Daniboy370/Machine-Learning/blob/master/Misc/Latex/Images/Results_1.png' width=600 />
 
 Results
 -------
