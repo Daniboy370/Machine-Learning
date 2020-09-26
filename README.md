@@ -2,7 +2,7 @@ This project aims to explore the data in search of hidden patterns using **non d
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1npMIKc5VYEOwgVK2079-wju3kuxSeDBT/view?usp=sharing)
 
-[ <img src=https://github.com/Daniboy370/Uploads/blob/master/logo-Medium.png?raw=true width=150 /> ](https://medium.com/@danielengelsman/say-hello-to-doctor-ai-b32448ed5d52)
+[ <img src='https://github.com/Daniboy370/Uploads/blob/master/logo-Medium.png?raw=true' width=150 /> ](https://medium.com/@danielengelsman/say-hello-to-doctor-ai-b32448ed5d52)
 
 [<img src='https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png' width=65 />](https://www.kaggle.com/daniboy370/can-ai-outperform-radiologists)
 
