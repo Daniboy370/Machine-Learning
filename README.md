@@ -1,6 +1,6 @@
 This project aims to explore the data in search of hidden patterns using **non deep learning** classification tools. The findings will be analyzed in context of **clinical aspects** using interactive data visualizations. This way I hope to establish a robust understanding of machine learning in context of healthcare. 
 
-[<img src='https://github.com/Daniboy370/Uploads/blob/master/logo-Medium.png?raw=true' width=125 />](https://medium.com/@danielengelsman/say-hello-to-doctor-ai-b32448ed5d52)
+[<img src='https://github.com/Daniboy370/Uploads/blob/master/logo-Medium.png?raw=true' width=100 />](https://medium.com/@danielengelsman/say-hello-to-doctor-ai-b32448ed5d52)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1npMIKc5VYEOwgVK2079-wju3kuxSeDBT/view?usp=sharing)
 
