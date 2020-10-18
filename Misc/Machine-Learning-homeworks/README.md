@@ -1,4 +1,4 @@
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Gadiler) 
+`![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Gadiler) 
 <br/>
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![Gmail Badge](https://img.shields.io/badge/-Gadi.lod@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gadi.lod@gmail.com) 
