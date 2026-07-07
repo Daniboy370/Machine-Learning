@@ -1,4 +1,3 @@
-<video src="[https://www.youtube.com/embed/YOUR_VIDEO_ID](https://youtu.be/IGq5rHfnV7E?si=yKb-jhxwTgWVNTi-)" width="100%" controls></video>
 
 This project aims to explore the data in search of hidden patterns using **non deep learning** classification tools. The findings will be analyzed in context of **clinical aspects** using interactive data visualizations. This way I hope to establish a robust understanding of machine learning in context of healthcare. 
 
@@ -8,6 +7,7 @@ This project aims to explore the data in search of hidden patterns using **non d
 
 [<img src='https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png' width=65 />](https://www.kaggle.com/daniboy370/can-ai-outperform-radiologists)
 
+<video src="https://youtu.be/IGq5rHfnV7E?si=N3mEpTRmaaVwFX7Z" width="100%" controls></video>
 
 
 Contents
