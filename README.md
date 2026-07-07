@@ -1,3 +1,5 @@
+<video src="[https://www.youtube.com/embed/YOUR_VIDEO_ID](https://youtu.be/IGq5rHfnV7E?si=yKb-jhxwTgWVNTi-)" width="100%" controls></video>
+
 This project aims to explore the data in search of hidden patterns using **non deep learning** classification tools. The findings will be analyzed in context of **clinical aspects** using interactive data visualizations. This way I hope to establish a robust understanding of machine learning in context of healthcare. 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1npMIKc5VYEOwgVK2079-wju3kuxSeDBT/view?usp=sharing)
